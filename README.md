@@ -17,8 +17,8 @@ We designed a multispectral object detection network named Dual-Channel and Spat
 ### Installation
 Clone repo and install requirements.txt in a Python>=3.8.0 conda environment.
 ```
-git clone https://github.com/wliu318/DCSAFNet.git
-cd dcsafnet
+git clone https://github.com/wliu318/DCSAFNet1.git
+cd dcsafnet1
 pip install -r requirements.txt
 ```
 
