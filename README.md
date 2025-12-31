@@ -5,12 +5,12 @@ We designed a multispectral object detection network named Dual-Channel and Spat
 
 ### Overview
 <div align="center">
-  <img src="./data/fig_model/diagram" width="600px">
+  <img src="./models/diagram.jpg" width="600px">
   <div style="color:orange; border-bottom: 10px solid #d9d9d9; display: inline-block; color: #999; padding: 10px;"> Fig 1. Overview of DCSAFNet framework </div>
 </div>
 
 <div align="center">
-  <img src="./data/fig_model/DCSAFM" width="600px">
+  <img src="./models/DCSAFM.jpg" width="600px">
   <div style="color:orange; border-bottom: 10px solid #d9d9d9; display: inline-block; color: #999; padding: 10px;"> Fig 2. Illustration of the DCSAFM module </div>
 </div>
 
